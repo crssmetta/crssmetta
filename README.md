@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Carissa 👋
 
-<!--
-**crssmetta/crssmetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics student  
+💡 Interested in system, security, and software development  
+📌 Currently preparing for internship
 
-Here are some ideas to get you started:
+### 🧠 Technical Background
+- Programming: C++, Python, Java
+- Tools: Git, GitHub
+- System: Linux (Ubuntu), basic networking
+- Testing: basic software testing & quality awareness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Areas of Interest
+- Cyber Security (learning phase)
+- Linux & system configuration
+- Software quality and testing
+
+### 📂 Selected Projects
+- Ubuntu Firewall Configuration (iptables) — academic lab documentation focusing on firewall concepts and traffic filtering
+- Team-based academic projects — collaborative repositories with defined individual contributions
+
+> Some repositories are documentation-based projects reconstructed from academic labs.
